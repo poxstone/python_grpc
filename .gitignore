@@ -1,0 +1,7 @@
+venv/
+__pycache__/*
+*.pyc
+*.pyc*
+*.sw[mnop]
+__pycache__/*
+proto_grpc/__pycache__
